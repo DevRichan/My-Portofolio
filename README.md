@@ -9,12 +9,16 @@ No |  Judul  | Link |
 2|   23   |   Perempuan   |
 3|   19   |   Perempuan   |
 
-1. Data Science Project: Analisis Data COVID19 di Dunia & ASEAN (DQLab) :
-No|Judul|
+1. Data Science Project: Analisis Data COVID19 di Dunia & ASEAN (DQLab) :\
+
+No|Link|
+--|-----|
 1 |https://github.com/DevRichan/PF-1-Data-Analysis-Covid19-DQLAB|
 
 2. Final Project Dicoding (The aim of this program is to recognize 3 images in the form of Rock Paper Scissors):
-- https://github.com/DevRichan/PF-3-Final-Project-DeepLearning-RockPaperScissors-Dicoding
+No|Link|
+--|-----|
+1 |https://github.com/DevRichan/PF-3-Final-Project-DeepLearning-RockPaperScissors-Dicoding|
 
 3. Data Science in Telco (DQLab) :
 - Data Cleansing : https://github.com/DevRichan/PF-2-Data-Science-in-Telco-Data-Cleansing-DQLAB
