@@ -11,5 +11,5 @@ No |  Judul  | Link |
 4|Final Project Purwadhika (Housing price in Beijing)|  https://github.com/DevRichan/PF-4-Final-Project-Purwadhika-House-Price-In-Beijing |
 
 
-<center><img src="https://user-images.githubusercontent.com/53082147/101026382-6975b900-35a9-11eb-8348-808f386f2801.jpeg width="324" height="324"></center>
+<center><img src="https://user-images.githubusercontent.com/53082147/101026382-6975b900-35a9-11eb-8348-808f386f2801.jpeg></center>
 Ricki Chandra Hidayatullah
