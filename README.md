@@ -1,9 +1,9 @@
 # My Portofolio
 
 
-Beberapa portofolio yang saya buat : 
+Some of the programs I created :
 
-No |  Judul  | Link |
+No |  Title  | Link |
 ------|--------|---------------|
 1|Data Science Project: Analisis Data COVID19 di Dunia & ASEAN (DQLab)     |  https://github.com/DevRichan/PF-1-Data-Analysis-Covid19-DQLAB  |
 2|Final Project Dicoding (The aim of this program is to recognize 3 images in the form of Rock Paper Scissors) |https://github.com/DevRichan/PF-3-Final-Project-DeepLearning-RockPaperScissors-Dicoding|
