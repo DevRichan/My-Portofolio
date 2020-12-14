@@ -12,6 +12,17 @@ No |  Title  | Link |
 5|Data Science in Telco Part II : Customer Churn Prediction using Machine Learning (DQLab)|https://github.com/DevRichan/PF-5-Customer-Churn-Data-Telco-DQLAB|
 6|Final Project Purwadhika : Housing price in Beijing |  https://github.com/DevRichan/PF-4-Final-Project-Purwadhika-House-Price-In-Beijing |
 
+Data Analysis & Visualization using Google Data Studio:
+
+No |  Title  | Link |
+------|--------|---------------|
+1|Marketing Peformance Metrics (Dummy data and Tutorial)|  https://datastudio.google.com/reporting/9b9613b9-99b0-4ad2-be5d-6b41d6b6564f |
+
+
+
+
+
+
 
 Author : 
 
