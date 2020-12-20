@@ -11,7 +11,7 @@ No |  Title  | Link |
 4|Data Science in Telco Part I : Data Cleansing (DQLab)   |  https://github.com/DevRichan/PF-2-Data-Science-in-Telco-Data-Cleansing-DQLAB |
 5|Data Science in Telco Part II : Customer Churn Prediction using Machine Learning (DQLab)|https://github.com/DevRichan/PF-5-Customer-Churn-Data-Telco-DQLAB|
 6|Final Project Purwadhika : Housing price in Beijing |  https://github.com/DevRichan/PF-4-Final-Project-Purwadhika-House-Price-In-Beijing |
-7|Japan Hostel (price predictions & analysis) | Coming Soon |
+7|Japan Hostel (Price predictions & Analysis) | Coming Soon |
 
 
 
