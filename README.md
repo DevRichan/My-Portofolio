@@ -6,7 +6,7 @@ Some of the programs I created :
 No |  Title  | Link | Information |
 ------|--------|---------------|-------|
 1|Data Science Project : Analisis Data COVID19 di Dunia & ASEAN  |  https://github.com/DevRichan/PF-1-Data-Analysis-Covid19-DQLAB | DQLab Project |
-2|Convolutional Neural Network Architecture and Data Augmentation for Pneumonia Classification from Chest X-Rays Images|Coming Soon| Thesis |
+2|Convolutional Neural Network Architecture and Data Augmentation for Pneumonia Classification from Chest X-Rays Images|https://ijisrt.com/assets/upload/files/IJISRT20FEB134.pdf| Thesis |
 3|The Aim of This Program is to Recognize 3 Images in The Form of Rock Paper Scissors) |https://github.com/DevRichan/PF-3-Final-Project-DeepLearning-RockPaperScissors-Dicoding| Dicoding Certification|
 4|Data Science in Telco Part I : Data Cleansing |  https://github.com/DevRichan/PF-2-Data-Science-in-Telco-Data-Cleansing-DQLAB | DQLab Project |
 5|Data Science in Telco Part II : Customer Churn Prediction using Machine Learning |https://github.com/DevRichan/PF-5-Customer-Churn-Data-Telco-DQLAB| DQLab Project|
