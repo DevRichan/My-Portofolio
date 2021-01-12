@@ -16,7 +16,7 @@ No |  Title  | Link | Information |
 ------|--------|---------------|-------|
 1|Convolutional Neural Network Architecture and Data Augmentation for Pneumonia Classification from Chest X-Rays Images|https://ijisrt.com/assets/upload/files/IJISRT20FEB134.pdf| Thesis |
 2|Data Science in Telco Part I : Data Cleansing |  https://github.com/DevRichan/PF-2-Data-Science-in-Telco-Data-Cleansing-DQLAB | DQLab Project |
- |Data Science in Telco Part II : Customer Churn Prediction using Machine Learning |https://github.com/DevRichan/PF-5-Customer-Churn-Data-Telco-DQLAB| DQLab Project|
+-|Data Science in Telco Part II : Customer Churn Prediction using Machine Learning |https://github.com/DevRichan/PF-5-Customer-Churn-Data-Telco-DQLAB| DQLab Project|
 3|Housing price in Beijing |  https://github.com/DevRichan/PF-4-Final-Project-Purwadhika-House-Price-In-Beijing | Final Project Purwadhika |
 
 
