@@ -31,9 +31,9 @@ No |  Title  | Link | Information |
 
 
 Freelance Project : 
-No |  Title  | Link | Information | Client |
+No | Date |  Title  | Link | Information | Client | Status |
 ------|--------|---------------|-------|-------|
-1|Anomaly Classification of Public Transport Vehicle Activities  |  Private | Private | Private | 
+1|16 - 20 Februari 2021 | Anomaly Classification of Public Transport Vehicle Activities  |  Private | Private | Private | Dobe |
 
 
 Author : 
