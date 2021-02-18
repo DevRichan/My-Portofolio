@@ -33,7 +33,7 @@ No |  Title  | Link | Information |
 Freelance Project : 
 No | Date |  Title  | Link | Information | Client | Status |
 ------|--------|---------------|-------|-------|-------|-------|
-1|16 - 20 Februari 2021 | Anomaly Classification of Public Transport Vehicle Activities  |  Private | Private | Private | Dobe |
+1|16 - 20 Februari 2021 | Anomaly Classification of Public Transport Vehicle Activities  |  Private | Private | Private | Done |
 
 
 Author : 
@@ -42,3 +42,5 @@ Ricki Chandra Hidayatullah | Data Scientist and Machine Learning Enthusiast
 
 <center><img src="https://user-images.githubusercontent.com/53082147/101026382-6975b900-35a9-11eb-8348-808f386f2801.jpeg"></center>
 
+
+LinkedIn: https://www.linkedin.com/in/rickichidayatullah/
