@@ -28,6 +28,14 @@ No |  Title  | Link | Information |
 
 
 
+
+
+Freelance project : 
+No |  Title  | Link | Information |
+------|--------|---------------|-------|
+1|Anomaly Classification of Public Transport Vehicle Activities  |  Private | Private |
+
+
 Author : 
 
 Ricki Chandra Hidayatullah | Data Scientist and Machine Learning Enthusiast
