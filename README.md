@@ -31,9 +31,9 @@ No |  Title  | Link | Information |
 
 
 Freelance Project : 
-No |  Title  | Link | Information |
+No |  Title  | Link | Information | Client |
 ------|--------|---------------|-------|
-1|Anomaly Classification of Public Transport Vehicle Activities  |  Private | Private |
+1|Anomaly Classification of Public Transport Vehicle Activities  |  Private | Private | Student College |
 
 
 Author : 
