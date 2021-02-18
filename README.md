@@ -30,7 +30,7 @@ No |  Title  | Link | Information |
 
 
 
-Freelance project : 
+Freelance Project : 
 No |  Title  | Link | Information |
 ------|--------|---------------|-------|
 1|Anomaly Classification of Public Transport Vehicle Activities  |  Private | Private |
