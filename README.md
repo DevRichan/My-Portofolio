@@ -1,8 +1,9 @@
 # My Portofolio
 
+LinkedIn: https://www.linkedin.com/in/rickichidayatullah/
+
 
 Some of the programs I created :
-
 
 Level : Beginner
 No |  Title  | Link | Information |
